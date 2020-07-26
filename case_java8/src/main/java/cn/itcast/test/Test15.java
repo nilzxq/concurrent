@@ -13,6 +13,7 @@ public class Test15 {
             }
             log.debug("结束");
         }, "t1");
+        //守护线程 启动之前设置 默认使非守护的
         t1.setDaemon(true);
         t1.start();
 

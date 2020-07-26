@@ -39,6 +39,6 @@ public class Test14 {
     }
 
     public static void main(String[] args) throws InterruptedException {
-        test4();
+        test3();
     }
 }

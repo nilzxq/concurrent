@@ -1,7 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f2d2170-e3f0-48f0-ab5e-52200f036aa8" name="Default Changelist" comment="" />
+    <list default="true" id="4f2d2170-e3f0-48f0-ab5e-52200f036aa8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/learn/Test0609.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/n7/Test3_07007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ordering/ordering.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ordering/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ordering/src/main/java/cn/itcast/ConcurrencyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ordering/target/generated-sources/annotations/cn/itcast/ConcurrencyTest_jcstress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ordering/target/generated-sources/annotations/org/openjdk/jcstress/infra/results/II_Result_jcstress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ordering/target/generated-sources/annotations/org/openjdk/jcstress/infra/results/I_Result_jcstress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/n4/TestThreadSafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/n4/TestThreadSafe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/n4/TestWaitNotify.java" beforeDir="false" afterPath="$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/n4/TestWaitNotify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/pattern/TestGuardedObjectV3.java" beforeDir="false" afterPath="$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/pattern/TestGuardedObjectV3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/test/Test14.java" beforeDir="false" afterPath="$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/test/Test14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/test/Test15.java" beforeDir="false" afterPath="$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/test/Test15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/test/Test19.java" beforeDir="false" afterPath="$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/test/Test19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/test/Test23.java" beforeDir="false" afterPath="$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/test/Test23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/test/TestAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/test/TestAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_java8/target/classes/cn/itcast/n4/TestThreadSafe.class" beforeDir="false" afterPath="$PROJECT_DIR$/case_java8/target/classes/cn/itcast/n4/TestThreadSafe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_java8/target/classes/cn/itcast/n4/ThreadSafe.class" beforeDir="false" afterPath="$PROJECT_DIR$/case_java8/target/classes/cn/itcast/n4/ThreadSafe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_java8/target/classes/cn/itcast/n4/ThreadSafeSubClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/case_java8/target/classes/cn/itcast/n4/ThreadSafeSubClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_java8/target/classes/cn/itcast/n4/ThreadUnsafe.class" beforeDir="false" afterPath="$PROJECT_DIR$/case_java8/target/classes/cn/itcast/n4/ThreadUnsafe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_java8/target/classes/cn/itcast/pattern/GuardedObjectV3.class" beforeDir="false" afterPath="$PROJECT_DIR$/case_java8/target/classes/cn/itcast/pattern/GuardedObjectV3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_java8/target/classes/cn/itcast/test/AccountCas.class" beforeDir="false" afterPath="$PROJECT_DIR$/case_java8/target/classes/cn/itcast/test/AccountCas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_java8/target/classes/cn/itcast/test/Chopstick.class" beforeDir="false" afterPath="$PROJECT_DIR$/case_java8/target/classes/cn/itcast/test/Chopstick.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_java8/target/classes/cn/itcast/test/Philosopher.class" beforeDir="false" afterPath="$PROJECT_DIR$/case_java8/target/classes/cn/itcast/test/Philosopher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_java8/target/classes/cn/itcast/test/Test14.class" beforeDir="false" afterPath="$PROJECT_DIR$/case_java8/target/classes/cn/itcast/test/Test14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_java8/target/classes/cn/itcast/test/Test15.class" beforeDir="false" afterPath="$PROJECT_DIR$/case_java8/target/classes/cn/itcast/test/Test15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_java8/target/classes/cn/itcast/test/Test19.class" beforeDir="false" afterPath="$PROJECT_DIR$/case_java8/target/classes/cn/itcast/test/Test19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case_java8/target/classes/cn/itcast/test/Test23.class" beforeDir="false" afterPath="$PROJECT_DIR$/case_java8/target/classes/cn/itcast/test/Test23.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jcstress_ordering/target/jcstress.jar" beforeDir="false" afterPath="$PROJECT_DIR$/jcstress_ordering/target/jcstress.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jcstress_ordering/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/jcstress_ordering/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jcstress_ordering/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/jcstress_ordering/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jcstress_ordering/target/original-jcstress.jar" beforeDir="false" afterPath="$PROJECT_DIR$/jcstress_ordering/target/original-jcstress.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jcstress_ordering/target/results/cn.itcast.ConcurrencyTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/jcstress_ordering/target/results/cn.itcast.ConcurrencyTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jcstress_ordering/target/results/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/jcstress_ordering/target/results/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +90,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/n8/TestTimer.java" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -66,6 +113,7 @@
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
   </component>
@@ -73,12 +121,16 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1SsACpAtcT03tL4MBY52a3VqxsZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="oracle" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
@@ -89,19 +141,20 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT&#10;GenericSQL" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="jdk.selected.JAVA_MODULE" value="1.7" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/case_java8/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ordering/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.16773017" />
     <property name="project.structure.side.proportion" value="0.31614137" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -134,13 +187,13 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test45">
-    <configuration name="Test10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.test.Test10" />
+  <component name="RunManager" selected="Application.TestWordCount">
+    <configuration name="TestShutDown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.n8.TestShutDown" />
       <module name="case_java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.itcast.test.*" />
+          <option name="PATTERN" value="cn.itcast.n8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.test.Test11" />
+    <configuration name="TestStarvation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.n8.TestStarvation" />
       <module name="case_java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.itcast.test.*" />
+          <option name="PATTERN" value="cn.itcast.n8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +214,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.test.Test12" />
+    <configuration name="TestSubmit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.n8.TestSubmit" />
       <module name="case_java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.itcast.test.*" />
+          <option name="PATTERN" value="cn.itcast.n8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,12 +227,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.test.Test45" />
+    <configuration name="TestTimer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.n8.TestTimer" />
       <module name="case_java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.itcast.test.*" />
+          <option name="PATTERN" value="cn.itcast.n8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,12 +240,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestJoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.n3.TestJoin" />
+    <configuration name="TestWordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.n8.TestWordCount" />
       <module name="case_java8" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.itcast.n3.*" />
+          <option name="PATTERN" value="cn.itcast.n8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -354,22 +407,22 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.TestSubmit" />
+      <item itemvalue="Application.TestShutDown" />
+      <item itemvalue="Application.TestStarvation" />
+      <item itemvalue="Application.TestTimer" />
       <item itemvalue="Spring Boot.MonitorApplication" />
       <item itemvalue="Spring Boot.CaseThirdpartApplication" />
       <item itemvalue="Spring Boot.ThirdpartApplication" />
-      <item itemvalue="Application.Test10" />
-      <item itemvalue="Application.TestJoin" />
-      <item itemvalue="Application.Test11" />
-      <item itemvalue="Application.Test12" />
-      <item itemvalue="Application.Test45" />
+      <item itemvalue="Application.TestWordCount" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test45" />
-        <item itemvalue="Application.Test12" />
-        <item itemvalue="Application.Test11" />
-        <item itemvalue="Application.TestJoin" />
-        <item itemvalue="Application.Test10" />
+        <item itemvalue="Application.TestWordCount" />
+        <item itemvalue="Application.TestTimer" />
+        <item itemvalue="Application.TestStarvation" />
+        <item itemvalue="Application.TestShutDown" />
+        <item itemvalue="Application.TestSubmit" />
       </list>
     </recent_temporary>
   </component>
@@ -424,66 +477,85 @@
       <workItem from="1576106185764" duration="11552000" />
       <workItem from="1576147147832" duration="359000" />
       <workItem from="1595240290483" duration="8998000" />
-      <workItem from="1595282359380" duration="9191000" />
+      <workItem from="1595282359380" duration="12990000" />
+      <workItem from="1595311383002" duration="20000" />
+      <workItem from="1595324778563" duration="3330000" />
+      <workItem from="1595415590296" duration="2921000" />
+      <workItem from="1595430744195" duration="10000" />
+      <workItem from="1595496840494" duration="13560000" />
+      <workItem from="1595554541579" duration="4169000" />
+      <workItem from="1595578779044" duration="5690000" />
+      <workItem from="1595631243412" duration="758000" />
+      <workItem from="1595633037231" duration="15011000" />
+      <workItem from="1595677781770" duration="1436000" />
+      <workItem from="1595687982954" duration="637000" />
+      <workItem from="1595717293315" duration="901000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="634" y="292" key="FileChooserDialogImpl" timestamp="1595242453433">
+    <state x="584" y="292" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1595597210241">
       <screen x="0" y="0" width="1707" height="1067" />
     </state>
-    <state x="634" y="292" key="FileChooserDialogImpl/0.0.1707.1067@0.0.1707.1067" timestamp="1595242453433" />
-    <state width="1706" height="316" key="GridCell.Tab.0.bottom" timestamp="1595295256382">
+    <state x="584" y="292" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1707.1067@0.0.1707.1067" timestamp="1595597210241" />
+    <state x="634" y="292" key="FileChooserDialogImpl" timestamp="1595597111134">
       <screen x="0" y="0" width="1707" height="1067" />
     </state>
-    <state width="1706" height="316" key="GridCell.Tab.0.bottom/0.0.1707.1067@0.0.1707.1067" timestamp="1595295256382" />
-    <state width="1706" height="316" key="GridCell.Tab.0.center" timestamp="1595295256381">
+    <state x="634" y="292" key="FileChooserDialogImpl/0.0.1707.1067@0.0.1707.1067" timestamp="1595597111134" />
+    <state width="1706" height="318" key="GridCell.Tab.0.bottom" timestamp="1595678070637">
       <screen x="0" y="0" width="1707" height="1067" />
     </state>
-    <state width="1706" height="316" key="GridCell.Tab.0.center/0.0.1707.1067@0.0.1707.1067" timestamp="1595295256381" />
-    <state width="1706" height="316" key="GridCell.Tab.0.left" timestamp="1595295256381">
+    <state width="1706" height="318" key="GridCell.Tab.0.bottom/0.0.1707.1067@0.0.1707.1067" timestamp="1595678070637" />
+    <state width="1706" height="318" key="GridCell.Tab.0.center" timestamp="1595678070637">
       <screen x="0" y="0" width="1707" height="1067" />
     </state>
-    <state width="1706" height="316" key="GridCell.Tab.0.left/0.0.1707.1067@0.0.1707.1067" timestamp="1595295256381" />
-    <state width="1706" height="316" key="GridCell.Tab.0.right" timestamp="1595295256382">
+    <state width="1706" height="318" key="GridCell.Tab.0.center/0.0.1707.1067@0.0.1707.1067" timestamp="1595678070637" />
+    <state width="1706" height="318" key="GridCell.Tab.0.left" timestamp="1595678070636">
       <screen x="0" y="0" width="1707" height="1067" />
     </state>
-    <state width="1706" height="316" key="GridCell.Tab.0.right/0.0.1707.1067@0.0.1707.1067" timestamp="1595295256382" />
-    <state width="1706" height="371" key="GridCell.Tab.1.bottom" timestamp="1595287132556">
+    <state width="1706" height="318" key="GridCell.Tab.0.left/0.0.1707.1067@0.0.1707.1067" timestamp="1595678070636" />
+    <state width="1706" height="318" key="GridCell.Tab.0.right" timestamp="1595678070637">
       <screen x="0" y="0" width="1707" height="1067" />
     </state>
-    <state width="1706" height="371" key="GridCell.Tab.1.bottom/0.0.1707.1067@0.0.1707.1067" timestamp="1595287132556" />
-    <state width="1706" height="371" key="GridCell.Tab.1.center" timestamp="1595287132556">
+    <state width="1706" height="318" key="GridCell.Tab.0.right/0.0.1707.1067@0.0.1707.1067" timestamp="1595678070637" />
+    <state width="1706" height="371" key="GridCell.Tab.1.bottom" timestamp="1595677756305">
       <screen x="0" y="0" width="1707" height="1067" />
     </state>
-    <state width="1706" height="371" key="GridCell.Tab.1.center/0.0.1707.1067@0.0.1707.1067" timestamp="1595287132556" />
-    <state width="1706" height="371" key="GridCell.Tab.1.left" timestamp="1595287132556">
+    <state width="1706" height="371" key="GridCell.Tab.1.bottom/0.0.1707.1067@0.0.1707.1067" timestamp="1595677756305" />
+    <state width="1706" height="371" key="GridCell.Tab.1.center" timestamp="1595677756305">
       <screen x="0" y="0" width="1707" height="1067" />
     </state>
-    <state width="1706" height="371" key="GridCell.Tab.1.left/0.0.1707.1067@0.0.1707.1067" timestamp="1595287132556" />
-    <state width="1706" height="371" key="GridCell.Tab.1.right" timestamp="1595287132556">
+    <state width="1706" height="371" key="GridCell.Tab.1.center/0.0.1707.1067@0.0.1707.1067" timestamp="1595677756305" />
+    <state width="1706" height="371" key="GridCell.Tab.1.left" timestamp="1595677756305">
       <screen x="0" y="0" width="1707" height="1067" />
     </state>
-    <state width="1706" height="371" key="GridCell.Tab.1.right/0.0.1707.1067@0.0.1707.1067" timestamp="1595287132556" />
-    <state x="384" y="192" key="Maven.ArtifactSearchDialog" timestamp="1595250031914">
+    <state width="1706" height="371" key="GridCell.Tab.1.left/0.0.1707.1067@0.0.1707.1067" timestamp="1595677756305" />
+    <state width="1706" height="371" key="GridCell.Tab.1.right" timestamp="1595677756305">
       <screen x="0" y="0" width="1707" height="1067" />
     </state>
-    <state x="384" y="192" key="Maven.ArtifactSearchDialog/0.0.1707.1067@0.0.1707.1067" timestamp="1595250031914" />
-    <state x="357" y="179" key="SettingsEditor" timestamp="1595250461314">
+    <state width="1706" height="371" key="GridCell.Tab.1.right/0.0.1707.1067@0.0.1707.1067" timestamp="1595677756305" />
+    <state x="384" y="192" key="Maven.ArtifactSearchDialog" timestamp="1595496908208">
       <screen x="0" y="0" width="1707" height="1067" />
     </state>
-    <state x="357" y="179" key="SettingsEditor/0.0.1707.1067@0.0.1707.1067" timestamp="1595250461314" />
-    <state x="545" y="288" width="617" height="490" key="find.popup" timestamp="1595242406620">
+    <state x="384" y="192" key="Maven.ArtifactSearchDialog/0.0.1707.1067@0.0.1707.1067" timestamp="1595496908208" />
+    <state x="357" y="179" key="SettingsEditor" timestamp="1595677739021">
       <screen x="0" y="0" width="1707" height="1067" />
     </state>
-    <state x="545" y="288" width="617" height="490" key="find.popup/0.0.1707.1067@0.0.1707.1067" timestamp="1595242406620" />
-    <state x="683" y="662" width="672" height="678" key="search.everywhere.popup" timestamp="1595254127647">
+    <state x="357" y="179" key="SettingsEditor/0.0.1707.1067@0.0.1707.1067" timestamp="1595677739021" />
+    <state x="545" y="288" width="617" height="490" key="find.popup" timestamp="1595419109550">
       <screen x="0" y="0" width="1707" height="1067" />
     </state>
-    <state x="683" y="662" width="672" height="678" key="search.everywhere.popup/0.0.1707.1067@0.0.1707.1067" timestamp="1595254127647" />
+    <state x="545" y="288" width="617" height="490" key="find.popup/0.0.1707.1067@0.0.1707.1067" timestamp="1595419109550" />
+    <state x="699" y="214" width="672" height="678" key="search.everywhere.popup" timestamp="1595669124271">
+      <screen x="0" y="0" width="1707" height="1067" />
+    </state>
+    <state x="699" y="214" width="672" height="678" key="search.everywhere.popup/0.0.1707.1067@0.0.1707.1067" timestamp="1595669124271" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -559,14 +631,9 @@
           <line>1816</line>
           <option name="timeStamp" value="55" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/n3/TestState2.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="68" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
           <url>file://$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/n4/TestWaitNotify.java</url>
-          <line>41</line>
+          <line>40</line>
           <option name="timeStamp" value="69" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
@@ -633,6 +700,31 @@
           <url>jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/util/concurrent/ConcurrentHashMap.java</url>
           <line>1645</line>
           <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/test/Test15.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/test/Test15.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/test/Test15.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/n3/TestState2.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/case_java8/src/main/java/cn/itcast/test/TestAccount.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="119" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-defaults>

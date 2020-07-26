@@ -7,7 +7,8 @@ import java.util.Random;
 import java.util.concurrent.locks.ReentrantLock;
 
 @Slf4j(topic = "c.Test23")
-public class Test23 {public static void main(String[] args) {
+public class Test23 {
+    public static void main(String[] args) {
     Chopstick c1 = new Chopstick("1");
     Chopstick c2 = new Chopstick("2");
     Chopstick c3 = new Chopstick("3");

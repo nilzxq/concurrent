@@ -12,8 +12,8 @@ public class Test19 {
             synchronized (lock) {
                 log.debug("获得锁");
                 try {
-//                    Thread.sleep(20000);
-                    lock.wait(20000);
+                   Thread.sleep(20000);
+                    //lock.wait(20000);
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }

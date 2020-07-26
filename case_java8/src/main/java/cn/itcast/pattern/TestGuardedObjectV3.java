@@ -62,6 +62,7 @@ class Fetures {
  */
 class GuardedObjectV3 {
 
+    //标识GuardedObject
     private int id;
     private Object response;
     private final Object lock = new Object();
